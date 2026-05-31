@@ -21,7 +21,7 @@ def read_file_tool(filename: str) -> Dict[str, Any]:
     with open(absolute_path, "r") as f:
         content = f.read()
     return {
-        "file_path": absolute_path,
+        "file_path": str(absolute_path),
         "content": content
     }
 
