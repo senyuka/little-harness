@@ -1,1 +1,1 @@
-In an attempt to understand what the often-used term "harness" actually means, I built this.
+In an attempt to understand what this word "harness" actually means, I built this.
